@@ -152,7 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Tejaswini** - [GitHub](https://github.com/Tejaswini7396)
+**Harsha Sri** - (https://github.com/Harshasri123h)
 
 ---
 
